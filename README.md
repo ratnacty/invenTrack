@@ -107,8 +107,8 @@ Setelah menjalankan seeder, akun berikut tersedia:
 
 | Field | Value |
 |-------|-------|
-| **Email** | `test@example.com` |
-| **Password** | `password` |
+| **Email** | `admin@example.com` |
+| **Password** | `admin123456` |
 
 > Segera ganti password setelah login pertama kali melalui menu **Settings > Password**.
 
